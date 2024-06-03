@@ -61,6 +61,6 @@ npm run start
 ```
 ## Cancer Prediction Testing
 
-Data testing [here](https://github.com/dicodingacademy/a658-machine-learning-googlecloud/releases/download/submissions/data-test-submissions.zip)
-Postman collection [here](https://github.com/dicodingacademy/a658-machine-learning-googlecloud/releases/download/submission-postman/submission-mlgc.postman_collection.json)
+- Data testing [here](https://github.com/dicodingacademy/a658-machine-learning-googlecloud/releases/download/submissions/data-test-submissions.zip)
+- Postman collection [here](https://github.com/dicodingacademy/a658-machine-learning-googlecloud/releases/download/submission-postman/submission-mlgc.postman_collection.json)
 
